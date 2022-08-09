@@ -1,20 +1,20 @@
 :root {
+  --main: #4383bf;
  --header-background: #175289;
- --main: #4383bf;
  --link: #299b7d;
+ --sidebar-selected: #2e5c87;
  --time: #2581B7;
  --sidebar-hover: #316DA2;
  --button-hover: #2f6896;
- --sidebar-selected: #2e5c87;
  --button-border: #3875a8;
  /* new */
- --header-background: #6100ff;
  --main: #1c1f2b;
+ --header-background: #6100ff;
  --link: #6100ff;
+ --sidebar-selected: #6100ff;
  --time: #2581B7;
  --sidebar-hover: #585858;
  --button-hover: #585858;
- --sidebar-selected: #6100ff;
  --button-border: #585858;
 
 }
