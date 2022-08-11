@@ -15,8 +15,12 @@ following: _articles/module-4.md
 
 
 ## 1: Topic introduction
+interaction tutorial
 
 ## 2: Hands-on and material exploration
+brainstorm games
+in pairs/alone come up with a simple single player game. Try to keep the mechanic and interaction as simple as possible to start out
+make a paper prototype or storyboard
 
 ## 3: Discussion and reflection activity
 

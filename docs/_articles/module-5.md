@@ -17,8 +17,10 @@ module: "5"
 
 
 ## 1: Topic introduction
+functions 
 
 ## 2: Hands-on and material exploration
+uploading to project site
 
 ## 3: Discussion and reflection activity
 

@@ -15,8 +15,11 @@ following: _articles/module-5.md
 
 
 ## 1: Topic introduction
+logic tutorial
+functions
 
 ## 2: Hands-on and material exploration
+build games
 
 ## 3: Discussion and reflection activity
 
