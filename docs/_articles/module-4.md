@@ -15,12 +15,17 @@ following: _articles/module-5.md
 
 
 ## 1: Topic introduction
-- Review state.
+- Review state. 
+    - State variable as counter
+    - State variable as switch
+    - State variable as switch, with button
+    - State variable as toggle, with button
+    - State variable as level
 - Download media examples [here](https://github.com/alisay/p5-workshop/raw/master/05_media/05_media.zip).
 
 ## 2: Hands-on and material exploration
 - Sharing our work using git. 
-- Continue building the games you planned out yesterday.
+- Start building the games you planned out yesterday.
 
 ## 3: Discussion and reflection activity
 

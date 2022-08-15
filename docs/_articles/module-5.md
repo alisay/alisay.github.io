@@ -39,10 +39,12 @@ module: "5"
 ### Where to from here?
 - Incorporating code into your practice.
 - Avenues for further collaboration, workshops and presentation.
+- Finding resources. 
+- The p5.js community.
 
 ## 4: Wrap-up.
-- p5.js community
-- Next steps. 
+- What we have learnt so far.
+- Stay in touch and [donate](https://www.paypal.com/pools/c/8MplVXEhkn).
 
 ### Resources
 - [p5.js tutorials](https://p5js.org/learn/)
