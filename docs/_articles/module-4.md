@@ -24,7 +24,7 @@ following: _articles/module-5.md
 - Download media examples [here](https://github.com/alisay/p5-workshop/raw/master/05_media/05_media.zip).
 
 ## 2: Hands-on and material exploration
-- Sharing our work using git. [Instructions](https://github.com/alisay/alisay.github.io/raw/main/docs/_articles/module-4/git.md)
+- Sharing our work using git. [Instructions](https://github.com/alisay/alisay.github.io/blob/main/docs/_articles/module-4/git.md)
 - Start building the games you planned out yesterday.
 
 ## 3: Discussion and reflection activity
