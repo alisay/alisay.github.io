@@ -64,6 +64,7 @@ following: _articles/module-4.md
 - [Royals](https://ashervo.itch.io/royals)
 - [Games for Change](https://www.gamesforchange.org/games/)
 - [Games made with p5.js](https://itch.io/games/made-with-p5js)
+- [PVI Collective](https://pvicollective.com/artworks/)
 
 ## 4: Wrap-up and next session
 - We will start building our games, and look at incorporating sound, images and text. 

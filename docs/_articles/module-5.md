@@ -19,6 +19,12 @@ module: "5"
 ## 1: Topic introduction
 - Looking at location-based artworks.  
 - What are some examples?
+    - [Janet Cardiff and George Bures Miller](https://cardiffmiller.com/)
+    - [David Horvitz](http://dismagazine.com/blog/80230/the-space-between-us-david-horvitz/), 
+    - [Little Frank and His Carp](https://vimeo.com/56939001), Andrea Fraser
+    - [Secret City](http://www.benmoren.com/projects/secret-city)
+    - [Deviator](https://pvicollective.com/project/deviator/)
+- [Template project](https://github.com/alisay/alisay.github.io/raw/main/docs/_articles/module-5/testLocation.zip)
 
 ## 2: Hands-on and material exploration
 - Walk around VAC with a notebook. 
