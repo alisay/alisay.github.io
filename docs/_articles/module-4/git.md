@@ -5,7 +5,7 @@ Git is a version control system, useful for coordinating work in teams.
 ### Workshop instructions 
 
 1. [Install git](https://github.com/git-guides/install-git)
-2. Make an account on [Github](https://github.com/join). Drop your github username in the [shared pad]()
+2. Make an account on [Github](https://github.com/join). Drop your github username in the [shared pad](https://pad.riseup.net/p/hypahe-albany-keep)
 3. Download [GitHub Desktop](https://desktop.github.com/)
 4. In the GitHub Desktop drop-down menu, click Preferences. In the preferences window, click Accounts and follow the steps to sign in
 5. Clone a repository using the URL slug ```alisay/alisay.github.io```
