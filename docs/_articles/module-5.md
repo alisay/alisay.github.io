@@ -20,10 +20,10 @@ module: "5"
 - Looking at location-based artworks.  
 - What are some examples?
     - [Janet Cardiff and George Bures Miller](https://cardiffmiller.com/)
-    - [David Horvitz](http://dismagazine.com/blog/80230/the-space-between-us-david-horvitz/), 
+    - [David Horvitz](http://dismagazine.com/blog/80230/the-space-between-us-david-horvitz/)
     - [Little Frank and His Carp](https://vimeo.com/56939001), Andrea Fraser
-    - [Secret City](http://www.benmoren.com/projects/secret-city)
-    - [Deviator](https://pvicollective.com/project/deviator/)
+    - [Secret City](http://www.benmoren.com/projects/secret-city), Ben Moren
+    - [Deviator](https://pvicollective.com/project/deviator/), PVI Collective
 - [Template project](https://github.com/alisay/alisay.github.io/raw/main/docs/_articles/module-5/testLocation.zip)
 
 ## 2: Hands-on and material exploration
@@ -50,7 +50,7 @@ module: "5"
 
 ## 4: Wrap-up.
 - What we have learnt so far.
-- Stay in touch and [donate](https://www.paypal.com/pools/c/8MplVXEhkn).
+- Stay in [touch](https://docs.google.com/forms/d/e/1FAIpQLSeCQe5OGnnPyeUWZ8mnYYtQZdkouGJdH1zLOPi8361a744fBA/viewform?usp=sf_link) and [donate](https://www.paypal.com/pools/c/8MplVXEhkn).
 
 ### Resources
 - [p5.js tutorials](https://p5js.org/learn/)
