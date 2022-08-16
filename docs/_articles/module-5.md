@@ -40,7 +40,7 @@ module: "5"
 - Feedback and discussion on work created so far. 
 
 ### Feedback on workshop
-- Quick survey and informal discussion.
+- Quick [survey](https://docs.google.com/forms/d/e/1FAIpQLSfAe-Erx1CSyTPXBTJDXKyIG9rGYymA3yrnkpAynD-WgV14gQ/viewform?usp=sf_link) and informal discussion.
 
 ### Where to from here?
 - Incorporating code into your practice.
