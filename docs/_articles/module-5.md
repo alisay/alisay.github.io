@@ -46,7 +46,7 @@ module: "5"
 - Incorporating code into your practice.
 - Avenues for further collaboration, workshops and presentation.
 - Finding resources. 
-- The p5.js community.
+- The p5.js [community](https://p5js.org/community/).
 
 ## 4: Wrap-up.
 - What we have learnt so far.
