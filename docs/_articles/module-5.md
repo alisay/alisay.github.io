@@ -47,6 +47,7 @@ module: "5"
 - Avenues for further collaboration, workshops and presentation.
 - Finding resources. 
 - The p5.js [community](https://p5js.org/community/).
+- Ready to move beyond local server? [Deploy to the web!](https://www.netlify.com/)
 
 ## 4: Wrap-up.
 - What we have learnt so far.
@@ -63,3 +64,5 @@ module: "5"
 - [Getting Started with CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
 - [Debugging Chrome tutorial](https://developer.chrome.com/docs/extensions/mv3/tut_debugging/)
 - [Processing forum](https://discourse.processing.org/)
+
+### Ready to move beyond local server? Deploy
